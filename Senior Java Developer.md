@@ -2,21 +2,21 @@ I'm on the lookout for an outstanding Java Developer to develop and design softw
 
 Relaxed and informal work space, a talented team to collaborate with and a chance to get involved in deciding the stack you use to build a variety of truly exceptional and innovative platforms, both greenfield and ongoing.
 
-*Responsibilities:*
+**Responsibilities:**
 *Produce clean & well documented code
 *Contributing to the overall system design and work on both upfront and emergent design
 *Work as part of an Agile, self-organising team to support and maintain the product
 *Work with testers to identify and ensure acceptance criteria are satisfied
 *Be smart and get things done. 
 
-*Key Skills*
+**Key Skills**
 *Proven commercial experience developing in Java 7 or Java 8
 *Passion for agile methods - Lean, Kanban, XP practices, TDD, BDD and DDD
 *Experience working with Spring
 *Experience building RESTful APIs
 *Knowledge of IntelliJ IDEA (Mac), JUnit, Dropwizard, Unix, Cucumber and Mockito
 
-*Desirable Skills:*
+**Desirable Skills:**
 *Knowledge of other JVM Based languages (Groovy, Scala etc)
 *Interest and experience in DevOps
 *Experience with logging, monitoring and alerting tools (Splunk, Logstash, Kibana, App Dynamics, Elastic Search, Grafana etc)
@@ -28,10 +28,9 @@ If this sounds like you, hit me up and we can have a chat about the opportunity.
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or fork me because I want to see it!
 
-*Harold Liu*
-*ph/txt:* 0400 659 332 | *email:* harold@justdigitalpeople.com.au
-
-*Twitter:* @theharold9000
-*Youtube:* https://www.youtube.com/user/justdigitalpeople
-*Instagram:* justdigitalpeople
-*GitHub:* theharold9000
+**Harold Liu**</br>
+**ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>
+**Twitter:** @theharold9000</br>
+**Youtube:** https://www.youtube.com/user/justdigitalpeople</br>
+**Instagram:** justdigitalpeople</br>
+**GitHub:** theharold9000</br>

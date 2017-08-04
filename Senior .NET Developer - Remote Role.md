@@ -3,9 +3,9 @@ Do you actually enjoy programming? Want to work remotely from home, for a compan
 This is your opportunity to be part of a rapidly growing business, with big-name customer acquisitions and a highly successful product. In this role, you'll be joining a team of highly experienced developers, who are truly passionate about their work and product. 
  
 To succeed in this role, you'll need: 
-*Experience with .NET MVC or Core
-*Exposure to modern JavaScript frameworks/libraries such as Angular, React, Aurelia or Vue
-*Experience building RESTful APIs or with using GraphQL
+* Experience with .NET MVC or Core
+* Exposure to modern JavaScript frameworks/libraries such as Angular, React, Aurelia or Vue
+* Experience building RESTful APIs or with using GraphQL
 
 In addition to being able to code in C#, you'll need to have a good understanding and appreciation of development best practices - including TDD, continuous integration and deployment. 
  

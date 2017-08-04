@@ -10,19 +10,19 @@ Relaxed and informal work space, a talented team to collaborate with and a chanc
 *Be smart and get things done. 
 
 **Key Skills**
-*Proven commercial experience developing in Java 7 or Java 8
-*Passion for agile methods - Lean, Kanban, XP practices, TDD, BDD and DDD
-*Experience working with Spring
-*Experience building RESTful APIs
-*Knowledge of IntelliJ IDEA (Mac), JUnit, Dropwizard, Unix, Cucumber and Mockito
+* Proven commercial experience developing in Java 7 or Java 8
+* Passion for agile methods - Lean, Kanban, XP practices, TDD, BDD and DDD
+* Experience working with Spring
+* Experience building RESTful APIs
+* Knowledge of IntelliJ IDEA (Mac), JUnit, Dropwizard, Unix, Cucumber and Mockito
 
 **Desirable Skills:**
-*Knowledge of other JVM Based languages (Groovy, Scala etc)
-*Interest and experience in DevOps
-*Experience with logging, monitoring and alerting tools (Splunk, Logstash, Kibana, App Dynamics, Elastic Search, Grafana etc)
-*Experience with Cassandra or other NoSQL databases
-*Knowledge of microservices architecture
-*Experience with Shell Scripting (Linux, Bash)
+* Knowledge of other JVM Based languages (Groovy, Scala etc)
+* Interest and experience in DevOps
+* Experience with logging, monitoring and alerting tools (Splunk, Logstash, Kibana, App Dynamics, Elastic Search, Grafana etc)
+* Experience with Cassandra or other NoSQL databases
+* Knowledge of microservices architecture
+* Experience with Shell Scripting (Linux, Bash)
 
 If this sounds like you, hit me up and we can have a chat about the opportunity. Not really what you're looking for but you're interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
 

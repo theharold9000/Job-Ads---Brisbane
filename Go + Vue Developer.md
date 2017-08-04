@@ -3,20 +3,20 @@ I'm currently looking for full-stack developers to be part of a groundbreaking g
 This isn't some university group project, they aren't looking for 'rockstar' developers to come aboard and do 80% of the heavy lifting. You'll be joining an organisation that expects bright people and treats them as such; get handed complex problems and be expected to come up with a smart solution while working with other smart people.
 
 **What you will be doing**
-*Create clean and efficient custom APIs and micro-services.
-*Implement intuitive user interfaces. 
-*Be involved in laying the foundations of a truly exciting platform.
+* Create clean and efficient custom APIs and micro-services.
+* Implement intuitive user interfaces. 
+* Be involved in laying the foundations of a truly exciting platform.
 
 **What will be be asked of you**
-*Experience with or a strong practical interest in learning Go, Vue.js or both.
-*Great eye for detail and strong sense of responsibility. 
-*The ambition to develop well written and designed software. 
-*The ability to make smart decisions and just get things done. 
+* Experience with or a strong practical interest in learning Go, Vue.js or both.
+* Great eye for detail and strong sense of responsibility. 
+* The ambition to develop well written and designed software. 
+* The ability to make smart decisions and just get things done. 
 
 **What's on offer**
-*The chance to be part of a meaningful challenge. 
-*Competitive salary.
-*An opportunity to learn and work with great technologies.
+* The chance to be part of a meaningful challenge. 
+* Competitive salary.
+* An opportunity to learn and work with great technologies.
 
 If this sounds like you, hit me up and we can have a chat about the opportunity. Not really what you're looking for but you're interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
 

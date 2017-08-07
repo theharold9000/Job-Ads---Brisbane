@@ -2,7 +2,7 @@ Want the chance to drive technical change on enterprise-scale products? With thi
 
 There are a multitude of incoming projects that you'll play a key part in so an eagerness to explore new technologies and a knack for creative engineering are essential!
 
-**Requried Skills (The more you tick the better!)**
+**Required Skills (The more you tick the better!)**
 * Experience working with Java 7, 8 or 9.
 * Experience working with Spring (Core, MVC and Boot).
 * Experience building RESTful APIs or using GraphQL.

@@ -1,31 +1,16 @@
-This is a role for someone who wants to be a 'full-service' software engineer.<br>
+This is a role for someone who wants to be a 'full-service' software engineer; developing across the full SDLC (including writing and executing test plans), creating product documentation and managing releases<br>
 
-New product development
-*New feature development within existing products
-*Quality improvement within existing products</br>
+**Required skills**</br>
 
-**Responsibilities**
-* Develop product and feature proposals, estimates and reports.
-* Execute full lifecycle software development.
-* Develop test and execute software test plans.
-* Manage firmware software releases.
-
-**Skills and experience**</br>
-
-* Experience with Qt
-* C, C#, Java
-* Proven experience developing software user interfaces and experiences.
-* Knowledge of Key Value databases – preferably Redis.
+* Experience developing with Qt
+* C, C++, maybe a bit of Java
+* An understanding of and experience working with KV stores (bonus points for Redis)
 * Experience with embedded Linux.
 
 **Extra nice to have**
 * Experience with embedded C on chip.
 
-
-If you're keen to be close to the beach, hit me up and we can discuss this opportunity 
-in more detail!. Not really what you're looking for but you're interested in having a 
-confidential discussion about other potential opportunities? Get in touch, your dream 
-job could be waiting on the other side.
+Not really what you're looking for but you're interested in seeing what else is out there or exploring what's trending in tech at the moment? Get in touch, I'm always keen for a chat about cool things happening in dev!
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or fork me because I want to see it!
 

@@ -1,4 +1,4 @@
-This is a role for someone who wants to be a 'full-service' software engineer; developing across the full SDLC (including writing and executing test plans), creating product documentation and managing releases<br>
+This is a role for someone who wants to be a 'full-service' software engineer. You'll be developing across the full SDLC (including writing and executing test plans), creating product documentation and managing releases<br>
 
 **Required skills**</br>
 

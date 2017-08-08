@@ -5,7 +5,7 @@
 *
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a 
-link or fork me because I want to see it!
+link or follow me because I want to see it!
 
 **Harold Liu**</br>
 **ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>

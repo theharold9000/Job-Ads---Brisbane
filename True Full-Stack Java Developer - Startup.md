@@ -4,7 +4,7 @@ When they say full stack, they don't mean just front and back end. Along with be
 
 This bunch do tech tests so if you're keen to work on something exciting and back yourself as being able to solve problems, hit me up and we can have a chat about this opportunity. Not really what you're looking for but you're interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
 
-If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or fork me because I want to see it!
+If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 
 **Harold Liu**</br>
 **ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>

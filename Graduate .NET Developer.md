@@ -4,7 +4,7 @@ If you've left information off your CV for the sake of keeping it to 1 page, don
 
 Not a grad but you're interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
 
-If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or fork me because I want to see it!
+If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 
 **Harold Liu**</br>
 **ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>

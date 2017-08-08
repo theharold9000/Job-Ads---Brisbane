@@ -1,3 +1,5 @@
+# Fullstack JS Developer - Startup + Tech Stack Agnostic
+
 Bulk incoming projects, JavaScript left, right and center and a chance to learn from people who really know their stuff. Sound good? Keep reading.
 
 This is a full-stack JS role so Node.js experience is essential, commercial or otherwise. Beyond that though, anything goes; the current front-end is built 

@@ -24,7 +24,7 @@ You will have everything you need to do your best work, clear direction and a su
 * An exciting, rapidly growing business environment
 * A modern system to work on using the latest technology and tools
 
-If this sounds like a good match for you, hit me up and we can discuss this opportunity in more detail!. Not your thing but still interested in discussing 
+If this sounds like a good match for you, hit me up and we can discuss this opportunity in more detail! Not your thing but still interested in discussing 
 what else is out there with the stars of Earth's #1 recruitment reality show? Get in touch, your dream job could be waiting on the other side.
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!

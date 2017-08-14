@@ -5,15 +5,15 @@ var emailTo = function() {
 }
 
 **mustHaves**
-1. .NET Core 1.0+
-1. React/Redux or an interest in learning
-1. Cloud computing (preferably MS Azure)
-1. TDD (what's your test coverage on new code like atm?)
-1. Understanding of time/space complexity (you will be interrogated on this)
+(NET Core 1.0+) = 1
+(React/Redux experience (commercial or recreational)) = 1;
+(Cloud computing (preferably MS Azure)) = 1;
+(TDD (what's your test coverage on new code like atm?)) = 1;
+(Understanding of time/space complexity (you will be interrogated on this)) = 1;
 
 **bonusRound**
-2. Fable, Elm or Reason
-2. Node, Express and Meteor
+(Fable, Elm or Reason) = 2;
+(Node, Express and Meteor) = 2;
 
 if ((mustHaves + bonusRound) >= 5) {
     emailTo(harold@justdigitalpeople.com.au);

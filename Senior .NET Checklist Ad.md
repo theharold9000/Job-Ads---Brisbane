@@ -1,7 +1,7 @@
 # Senior .NET Checklist
 
-var emailTo = function() {
-    email.send;
+var emailTo = function() {</br>
+    email.send;</br>
 }
 
 **mustHaves**</br>

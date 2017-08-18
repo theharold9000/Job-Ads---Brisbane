@@ -1,0 +1,25 @@
+# .NET Developer - Startup
+
+
+**Required Tech**
+* ASP.NET Core MVC 1.1.0 / 2.0.0 beta.
+* Azure SDK / DocumentDB (CosmosDB) / Table storage.
+* Experience working with Azure service fabric.
+* Experience integrating with 3rd party APIs and authentication protocols.
+
+**It'll also be great if you:**
+* Have an interest in functional programming (bonus points if you've played with F#!).
+* Have experimented with big data before. 
+* Are familiar with WCF, WF or Xamarin.
+
+
+, hit me up and we can discuss this opportunity in more detail! Not quite your thing but still interested in having a chat about what's out there? Get in touch, your dream job could be on the other side.
+
+If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
+
+**Harold Liu**</br>
+**ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>
+**Twitter:** @theharold9000</br>
+**Youtube:** https://www.youtube.com/user/justdigitalpeople</br>
+**Instagram:** justdigitalpeople</br>
+**GitHub:** theharold9000</br>

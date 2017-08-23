@@ -1,8 +1,15 @@
 # Python Web Developer
 
+Python web app and API development at scale; what's not to love? You'll be working in a highly agile environment that's results driven and focused on delivery. They're a lean team, they're a start-up and they're a group of humans who love what they do and are hugely successful because of it.
 
+**Can you do this stuff?**
 
-If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
+* Code in Python for the web using something like Django, web2py, Flask or Pyramid.
+* Build beautiful front-ends using stuff like Angular, React, Vue or Reason #bereasonable.
+* Comfortably set up your own build/deployment pipelines and use them.
+* Craft APIs to spec around REST or GraphQL
+
+If you have active GitHub, GitLab, BitBucket or Stack Overflow profile that you're proud of, include a link or follow me because I want to see it!
 
 **Harold Liu**</br>
 **ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>

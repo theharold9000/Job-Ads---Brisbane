@@ -6,6 +6,10 @@ You'll be helping a small team improve on an existing product that's been built 
 has the potential to change entire worlds; it's a simple concept on paper that requires cutting-edge technology and novel thinking to solve challenging 
 problems and bring it into reality.
 
+You'll need to be comfortable working with Ruby and Rails (obviously).
+
+
+
 If you want to literally change the world, hit me up and we can discuss this opportunity in more detail. Not really what you're looking for but you're 
 interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
 

@@ -1,6 +1,6 @@
 # Java Engineer
 
-
+Join a team that's leading the way in prototyping new technical initiatives and implementing them throughout other engineering functions.
 
 Sound like something you'd be interested in? Get in touch! Not really what you're looking for but you're interested in seeing what else is out there or exploring what's trending in tech at the moment? Get in touch, I'm always keen for a chat about cool things happening in dev!
 

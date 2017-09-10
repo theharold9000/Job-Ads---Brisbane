@@ -15,6 +15,8 @@ I'm excited about this one...can you tell? :D
 
 Are you excited too? You should be, this is an awesome role within an even more awesome (if possible) team. Hit me up, find out more, good things will happen.
 
+If you see something dumb or incorrect in my ads, let me know! Constructive criticism is always appreciated.
+
 If you have active GitHub, GitLab, BitBucket or Stack Overflow profile that you're proud of, include a link or follow me because I want to see it!
 
 **Harold Liu**</br>

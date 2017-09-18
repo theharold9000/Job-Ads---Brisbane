@@ -10,7 +10,7 @@ Relaxed and informal work space, a talented team to collaborate with and a chanc
 *Work as part of an Agile, self-organising team to support and maintain the product
 *Work with testers to identify and ensure acceptance criteria are satisfied
 *Be smart and get things done. 
-
+    
 **Key Skills**
 * Proven commercial experience developing in Java 7 or Java 8
 * Experience working with Spring
@@ -23,6 +23,8 @@ Relaxed and informal work space, a talented team to collaborate with and a chanc
 * Knowledge of microservices architecture
 
 If this sounds like you, hit me up and we can have a chat about the opportunity. Not really what you're looking for but you're interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
+
+See something dumb or incorrect in one of my ads? Let me know! Constructive criticism is always appreciated.
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 

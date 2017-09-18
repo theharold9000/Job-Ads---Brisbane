@@ -5,11 +5,11 @@ I'm on the lookout for an outstanding Java Developer to develop and design softw
 Relaxed and informal work space, a talented team to collaborate with and a chance to get involved in deciding the stack you use to build a variety of truly exceptional and innovative platforms, both greenfield and ongoing.
 
 **Responsibilities:**
-*Produce clean & well documented code
-*Contributing to the overall system design and work on both upfront and emergent design
-*Work as part of an Agile, self-organising team to support and maintain the product
-*Work with testers to identify and ensure acceptance criteria are satisfied
-*Be smart and get things done. 
+* Produce clean & well documented code
+* Contributing to the overall system design and work on both upfront and emergent design
+* Work as part of an Agile, self-organising team to support and maintain the product
+* Work with testers to identify and ensure acceptance criteria are satisfied
+* Be smart and get things done. 
     
 **Key Skills**
 * Proven commercial experience developing in Java 7 or Java 8

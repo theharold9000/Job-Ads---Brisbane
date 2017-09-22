@@ -1,6 +1,6 @@
 # Ultra Risky Ethereum Developer Role - Java
 
-Well, you made it this far: This is a Brisbane-based opportunity
+Well, you made it this far: This is a Brisbane-based opportunity to work on some ground-breaking products built on the Ethereum blockchain and implemented in Java. 
 
 This is you:
 
@@ -9,7 +9,7 @@ This is you:
  * An understanding of fundamental blockchain concepts would be helpful (hash trees, Dapps etc.)
  * Obsessed with creating and delivering cutting-edge, world-changing products
 
-Keen? Hit me up and we can discuss this opportunity in more detail! Not quite your thing but still interested in having a chat about what's out there? Get in touch, your dream job could be on the other side.
+If you want to hear the rest, follow me on here and email me your GitHub username and the best way to contact you (preferably phone number). Confident that'll be enough to get you this job? Leave it at that. If not, also email me a copy of your CV (or just do that anyway).
 
 See something dumb or incorrect in one of my ads? Let me know! Constructive criticism is always appreciated.
 

@@ -6,12 +6,12 @@ You'll be helping a small team improve on an existing product that's been built 
 has the potential to change entire worlds; it's a simple concept on paper that requires cutting-edge technology and novel thinking to solve challenging 
 problems and bring it into reality.
 
-You'll need to be comfortable working with Ruby and Rails (obviously).
-
-
+You'll need to be comfortable working with Ruby and something like Rails or Sinatra along with ideally some kind of modern JavaScript framework/library - bonux points if it's something hipster like Ember or Aurelia.
 
 If you want to literally change the world, hit me up and we can discuss this opportunity in more detail. Not really what you're looking for but you're 
 interested in having a confidential discussion about other potential opportunities? Get in touch, your dream job could be waiting on the other side.
+
+See something dumb or incorrect in one of my ads? Let me know! Constructive criticism is always appreciated.
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 

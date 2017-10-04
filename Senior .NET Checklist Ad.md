@@ -31,7 +31,6 @@ else {</br>
     console.log("Keep trying!");</br>
 }
 
-
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 
 I'm also always happy to receive feedback on my job ads so if you have any suggestions, please let me know!

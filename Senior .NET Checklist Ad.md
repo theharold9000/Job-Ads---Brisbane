@@ -1,7 +1,7 @@
 # Senior .NET Checklist
 
 **var jobInfo =** {</br>
-    companyInfo: "Highly successful company ",</br>
+    companyInfo: "Highly successful company that produces a multitude of domain-critical products",</br>
     serverSideStack: "Massive and modern platform (.NET 4.6.2 codebase is considered the 'ancient legacy stuff",</br>
     clientSideStack: "Angular/TypeScript front-end",</br>
     companyCulture: "The team value TDD (they can tell you test coverage on both legacy and new code with single-digit percentage precision",</br>

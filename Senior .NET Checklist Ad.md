@@ -1,23 +1,23 @@
 # Senior .NET Checklist
 
-**var roleInfo =** [</br>
-* Highly successful company with it's roots in the US of A
-* Massive and modern platform (.NET 4.6.2 codebase is considered the 'ancient legacy stuff')
-* The team value TDD (they can tell you test coverage on both legacy and new code with single-digit percentage precision)
-* Angular/TypeScript front-end</br>
-]
+**var jobInfo =** {</br>
+    companyInfo: "Highly successful company with it's roots in the US of A",
+    serverSideStack: "Massive and modern platform (.NET 4.6.2 codebase is considered the 'ancient legacy stuff",
+    clientSideStack: "Angular/TypeScript front-end",
+    companyCulture: "The team value TDD (they can tell you test coverage on both legacy and new code with single-digit percentage precision",</br>
+}
 
 var emailTo = function() {</br>
     email.send;</br>
 }
 
-**var mustHaves =** [
+**var mustHaves =** {
 * (NET Core 1.0+) = 1
 * (React/Redux experience (commercial or recreational)) = 1;</br>
 * (Cloud computing (preferably MS Azure)) = 1;</br>
 * (TDD (what's your test coverage on new code like atm?)) = 1;</br>
 * (Understanding of time/space complexity (you will be interrogated on this)) = 1;</br>
-]
+}
 
 **var bonusRound =** [
 * (Fable, Elm or Reason) = 2;</br>

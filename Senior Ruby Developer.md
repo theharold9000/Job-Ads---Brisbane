@@ -1,4 +1,4 @@
-#Senior Ruby Developer
+# Senior Ruby Developer
 
 Senior Ruby developer opportunity to take ownership of an existing code base and make it your own. You'll get to work on a truly industry disrupting product and have flexibility in where you work from. 
 

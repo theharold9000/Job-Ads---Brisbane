@@ -1,10 +1,10 @@
 #Senior Ruby Developer
 
-
-
-The developer should take ownership from a user perspective to build and debug complex systems in a team environment.
+Senior Ruby developer opportunity to take ownership of an existing code base and make it your own. You'll get to work on a truly industry disrupting product and have flexibility in where you work from. 
 
 You will be passionate about technology, a good problem solver and a team player who loves writing code and solving complex problems.
+
+Super simple stuff.
  
 **Responsibilities**
 * Lead the ongoing development and maintenance of business-critical customer-facing rails applications

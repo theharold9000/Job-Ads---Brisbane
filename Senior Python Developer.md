@@ -1,10 +1,11 @@
 # Senior Python Engineer
 
+This is your chance to join a true APAC-grown innovator that now influences their sector on a global scale. You'll have the chance to work on cutting-edge products and collaborate with others who actually enjoy programming.
+
 **What you'll be doing**
 
-* Design and implement software components and systems as agreed.
+* Design, build and manage software components and systems.
 * Design, implement and maintain a continuous delivery tool chain.
-* Provide assistance to the customer support organisation in the investigation and resolution of problem reports as required.
 * Create and maintain software, system and process documentation.
 * Assist in the creation of product manuals and online help content.
 
@@ -13,9 +14,14 @@
 * Extensive knowledge of Python and associated libraries/frameworks
 * Experience with multi-threaded and asynchronous programming and design patterns
 * Solid understanding of how the internet works (DNS resolution, email protocols etc.)
+* Strong opinions around software engineering that are held loosely
 
-**It will also be highly regarded if you have**
-* Experience in Agile and DevOps development environments and knowledge of applicable tools such as Jira, Bamboo, Fisheye, Jenkins, Ansible and Nagios
+**Bonus points if**
+
+* You've worked with cloud computing services
+* You have an interest in functional programming
+
+**I'm now taking applications from developers who'd like to guest-write a job ad. If you're interested, hit me up using any of the methods below - extra consideration given to candidates who use a more creative form of communication.**
 
 See something dumb or incorrect in one of my ads? Let me know! Constructive criticism is always appreciated.
 

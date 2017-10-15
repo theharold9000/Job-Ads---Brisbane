@@ -11,15 +11,15 @@ This is your chance to join a true APAC-grown innovator that now influences thei
 
 **What you'll need**
 
-* Extensive knowledge of Python and associated libraries/frameworks
-* Experience with multi-threaded and asynchronous programming and design patterns
-* Solid understanding of how the internet works (DNS resolution, email protocols etc.)
-* Strong opinions around software engineering that are held loosely
+* Extensive knowledge of Python and associated libraries/frameworks.
+* Experience with multi-threaded and asynchronous programming and design patterns.
+* Solid understanding of how the internet works (DNS resolution, email protocols etc.).
+* Strong opinions around software engineering that are held loosely.
 
 **Bonus points if**
 
-* You've worked with cloud computing services
-* You have an interest in functional programming
+* You've worked with cloud computing services.
+* You have an interest in functional programming.
 
 **I'm now taking applications from developers who'd like to guest-write a job ad. If you're interested, hit me up using any of the methods below - extra consideration given to candidates who use a more creative form of communication.**
 

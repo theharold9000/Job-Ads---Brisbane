@@ -6,8 +6,8 @@ There are a multitude of incoming projects that you'll play a key part in so an 
 
 **Required Skills (The more you tick the better!)**
 * Experience working with Java 7, 8 or 9.
-* Experience working with Spring (Core, MVC and Boot).
-* Experience building RESTful APIs or using GraphQL.
+* Experience working with Spring (Core, MVC and Boot) or similar frameworks.
+* Experience with building RESTful APIs or using GraphQL.
 
 **Desirable Skills:**
 * Knowledge of other JVM Based languages (Groovy, Scala etc).

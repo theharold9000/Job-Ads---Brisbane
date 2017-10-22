@@ -1,4 +1,4 @@
-#Backend Python Developer
+# Backend Python Developer
 
 This is an opportunity for you to take your skills and apply them to truly cutting-edge products. You will join a cross-functional team who maintain a careful balance between iterating quickly and ensuring production code remains scalable and well-tested. 
 

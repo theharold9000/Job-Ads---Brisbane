@@ -26,7 +26,7 @@ const skillset = [
   'Spring Boot or something similar',
   'TDD (what\'s your test coverage on new code like atm?)',
   'Node, Express and Meteor',
-  'Fable, Elm or Reason'
+  'Fable, Elm or Reason',
 ]
 
 const rating = [...mustHaves, ...bonusRound]

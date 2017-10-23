@@ -4,6 +4,16 @@ Join a team that's leading the way in prototyping new technical initiatives and 
 
 Transcend the shackles of the code monkey - shape and innovate web-scale software engineering instead.
 
+To be comfortable in this role, you'll need to have experience with:
+
+* Spring and Spring extensions such as Web MVC, Security, Data, Batch or Boot.
+* Persistence frameworks such as Hibernate or JPA.
+* Database technologies such as Cassandra, CouchDB or MongoDB.
+* Test-Driven-Development (TDD), ideally using jUnit.
+* RESTful Services.
+* Docker/Microservices.
+* Domain Driven Design/Event Sourcing/CQRS.
+
 Sound like something you'd be interested in? Get in touch! Not really what you're looking for but you're interested in seeing what else is out there or exploring what's trending in tech at the moment Get in touch, I'm always keen for a chat about cool things happening in dev!
 
 If you see something dumb or incorrect in my ads, let me know! Constructive criticism is always appreciated.

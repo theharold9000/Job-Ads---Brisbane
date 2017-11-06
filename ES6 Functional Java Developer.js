@@ -12,7 +12,7 @@ const hasSkill = (skill, value) => (skillset) => skillset.includes(skill) ? valu
 const mustHaves = [
   hasSkill('Core Java 7, 8 or 9', 1),
   hasSkill('Spring Boot or something similar', 1),
-  hasSkill('Cloud computing (preferably AWS', 1),
+  hasSkill('Cloud computing (preferably AWS)', 1),
   hasSkill('TDD (what\'s your test coverage on new code like atm?)', 1),
 ]
 

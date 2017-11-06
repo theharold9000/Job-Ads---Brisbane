@@ -1,15 +1,19 @@
-var opportunity = {
-    frontEnd: 'react',
-    backEnd: '.net',
-    seniority: 'intermediate to senior',
-    class: 'awesome'
+const opportunity = {
+    frontEnd: 'React',
+    backEnd: 'Python',
+    seniority: 'Intermediate to senior',
+    class: 'Awesome'
 }
 
-var candidate = function(name, email) {
+const candidate = function(name, email) {
     this.name = name;
     this.email = email;
 }
 
+const mustHaves = [
+    hasSkill('Python and Django/Flask/Pyramid'),
+    hasSkill('')
+]
 
 
 

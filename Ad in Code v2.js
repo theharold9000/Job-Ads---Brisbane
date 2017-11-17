@@ -15,6 +15,10 @@ const mustHaves = [
     hasSkill('')
 ]
 
+const niceToHaves = {
+    
+}
+
 
 
 /*

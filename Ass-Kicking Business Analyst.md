@@ -1,6 +1,6 @@
 # Ass-Kicking Business Analyst
 
-I'm on the lookout for a analytical, process/detail-oriented business analyst who is looking to take the lead in shaping an industry-leading product. This role will play a critical part in the planning and initial development stages of a major platform upgrade. You will work cross-functionally with multiple business units to generate innovatie solutions and ultimately create a next-generation product that solves existing industry problems. 
+I'm on the lookout for an analytical and process/detail-oriented business analyst who is looking to take the lead in shaping an industry-leading product. This role will play a critical part in the planning and initial development stages of a major platform upgrade. You will work cross-functionally with multiple business units to generate innovatie solutions and ultimately create a next-generation product that solves existing industry problems. 
 
 This is an individual contributor role that requires exceptional analytical skills, bias toward action, strong collaboration and communication skills. You will need to have experience with pushing the limits of business process automation, working on products that undergo massive traffic loads and collaborating closely with software engineers to create inspired software. 
 

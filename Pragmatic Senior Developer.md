@@ -20,7 +20,7 @@ The technologies mentioned above are about solving problems that present themsel
 * Super competitive renumeration
 * Awesome company perks (drinks, food, all that jazz)
 
-If all of this gets you excited and you're keen to see if you can hang, hit me up. 
+If all of this gets you excited and you're keen to see if you can hang, hit me up.
 
 See something dumb or incorrect in one of my ads? Let me know! Constructive criticism is always appreciated.
 

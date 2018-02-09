@@ -5,14 +5,12 @@ Senior .NET Developer - Aurelia/Node.js
 
 * C# .NET Core 1.1
 * Microservices
-* Public Cloud (Microsoft Azure) & On Premise (Windows Server or Linux) Deployments
 * Docker
 * RESTful APIs and services
 
 Additional skills desired:
 
 * Azure Service Fabric
-* Security/Encryption
 * Node.JS
 
 Additional experience desired:
@@ -20,8 +18,6 @@ Additional experience desired:
 * Kubernetes
 * Typescrypt /Javascript (Aurelia Framework)
 * HTML5/CSS3/LESS/SASS
-* Python
-* Media delivery (IPTV, MPEG DASH, H.264, MP4)
 * ElasticSearch, REDIS, MongoDB, Kafka, RabbitMQ, ZeroMQ
 
 If all of this gets you excited and you're keen to see if you can hang, hit me up.

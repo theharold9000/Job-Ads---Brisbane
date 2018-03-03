@@ -25,12 +25,12 @@ var bonusSkills = []string{
 }
 
 var candidateSkills = map[string]bool{
-	"Commercial Golang development":                                   					true,
+	"Commercial Golang development":                                   			true,
 	"Experience building on highly trafficked web applications":                      	true,
-	"Understanding of multiple microservice design patterns": 							true,
+	"Understanding of multiple microservice design patterns": 				true,
 	"An interest in building massively scalable and highly elastic web services"		true,
 	"Experience working with containerization and container orchestration tools":     	true,
-	"Exceptional pragmatism and strong beliefs that are held loosely":                  true,
+	"Exceptional pragmatism and strong beliefs that are held loosely":                  	true,
 }
 
 func main() {

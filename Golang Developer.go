@@ -8,7 +8,7 @@ const (
 	beTechStack    = "Golang microservices built using Golang"
 	feTechStack    = "Vue.js"
 	recruiterName  = "Harold Liu"
-	recruiterEmail = "harold@justdigitalpeople.com.au"
+	recruiterEmail = "harold@blackroc.co"
 	recruiterPhone = "0400 659 332"
 )
 
@@ -25,12 +25,12 @@ var bonusSkills = []string{
 }
 
 var candidateSkills = map[string]bool{
-	"Commercial Golang development":                                   					true,
+	"Commercial Golang development":                                   			true,
 	"Experience building on highly trafficked web applications":                      	true,
-	"Understanding of multiple microservice design patterns": 							true,
+	"Understanding of multiple microservice design patterns": 				true,
 	"An interest in building massively scalable and highly elastic web services"		true,
 	"Experience working with containerization and container orchestration tools":     	true,
-	"Exceptional pragmatism and strong beliefs that are held loosely":                  true,
+	"Exceptional pragmatism and strong beliefs that are held loosely":                  	true,
 }
 
 func main() {
@@ -58,9 +58,7 @@ If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile includ
 Guest writing a job ad could make you famous on the internet - give me a ping if that interests you.
 
 **Harold Liu**</br>
-**ph/txt:** 0400 659 332 | **email:** harold@justdigitalpeople.com.au</br>
+**ph/txt:** 0400 659 332 | **email:**harold@blackroc.co</br>
 **Twitter:** @theharold9000</br>
-**Youtube:** https://www.youtube.com/user/justdigitalpeople</br>
-**Instagram:** justdigitalpeople</br>
 **GitHub:** theharold9000</br>
 */

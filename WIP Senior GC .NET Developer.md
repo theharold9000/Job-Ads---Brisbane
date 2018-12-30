@@ -2,7 +2,7 @@
 
 
 
-If you see something dumb or incorrect in my ads, let me know! Constructive criticism is always appreciated.
+If you see something dumb or incorrect in my ads, let me know! C onstructive criticism is always appreciated.
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 

@@ -6,7 +6,7 @@ If you see something dumb or incorrect in my ads, let me know! C onstructive cri
 
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link or follow me because I want to see it!
 
-Currently reading: "Smart and Gets Things Done" by Joel Spolsky. Always open to book recommendations!
+Currently reading: "***". Always open to book recommendations!
 
 **Harold Liu**</br>
 **ph/txt:** 0400 659 332 | **email:** harold@blackroc.co</br>

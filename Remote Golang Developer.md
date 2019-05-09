@@ -16,7 +16,6 @@ Join this globally distributed team in their continuing quest to produce best-in
 * Constantly strive to hit the right balance between simplicity and flexibility.
 * Have great empathy for customer's needs and continuously iterate on your understanding of a problem based on user feedback.
 
-
 If you have an active GitHub, GitLab, BitBucket or Stack Overflow profile include a link because I want to see it!
 
 Currently reading: "The Flood" by Eric Nylund. Always open to book recommendations!
